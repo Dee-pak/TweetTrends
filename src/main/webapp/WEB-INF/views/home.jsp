@@ -172,9 +172,11 @@
     <footer class="footer-basic-centered footer">
 	<p class="footer-company-motto">See what's trending</p>
 	<p class="footer-links">
-            <a href="#">Home</a>
+            <a href="/edu">Home</a>
 							·
-            <a href="#">Contact</a>
+            <a href="contactus">Contact</a>
+                                                        ·
+            <a href="https://github.com/Dee-pak/TweetTrends" target="_blank">Github</a>
 	</p>
     <p class="footer-company-name">Tweets & Trends &copy; 2017</p>
 
