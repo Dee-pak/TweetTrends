@@ -106,9 +106,11 @@
 			</b>
 			<div class="col-sm-4">
 				<b>Sort Tweets: </b><select class="form-control selcls" ng-model="sortTweet">
-					<option value="createdAt">Date</option>
+					<option value="-createdAt">Latest</option>
+					<option value="createdAt">Oldest</option>
 					<option value="user.name">User Name</option>
-					<option value="retweetCount">Tweet Count</option>
+                                        <option value="-retweetCount">Highest retweets</option>
+					<option value="retweetCount">Lowest retweets</option>
 				</select>
 			</div>
 		</div>
