@@ -69,6 +69,7 @@
         </div>
     <!-- Header end -->
     
+    <!-- Navbar start -->
 	<div class="container">
 		<nav class="navbar navbar-inverse" >
 			<div class="navbar-header">
@@ -82,6 +83,8 @@
 			</ul>
 		</nav>
 	</div>
+    
+    <!-- Navbar end -->
 
 	<div class="container" ng-show="showTweet">
 
